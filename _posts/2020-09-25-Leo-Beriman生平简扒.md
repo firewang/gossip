@@ -4,7 +4,7 @@ title:      It's Never Too Late To Do Sth
 subtitle:   CART算法创作者，RandomForest创作者
 date:       2020-09-25
 author:     firewang
-header-img: img/montain-bg-unsplash.png
+header-img: img/montain-bg-unsplash.jpg
 catalog: true
 tags:
     - machine learning
@@ -34,12 +34,12 @@ tags:
 
 ## Leo的生平时间线
 
-![](img/leo_beriman_lifelong_timeline.jpg)
+![](/img/leo_beriman_lifelong_timeline.jpg)
 
 查阅了Leo相关的一些信息，做出来了他的生平时间线，可以发现的是，
 大牛对于业界的卓越贡献基本上都不是他在职业生涯产出的（但是为他产出内容做了充足的铺垫）。
 
-![leo](img/leo.jpg)
+![leo](/img/leo.jpg)
 
 而且他还是雕刻家！还投资过制冰厂(还是在墨西哥)
 
